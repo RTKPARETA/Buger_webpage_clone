@@ -1,0 +1,325 @@
+*{
+margin:0px;
+}
+#d1{
+height:100%;
+width:100%;
+border:2px solid black;
+background-image:url("d1bg.jpg");
+background-size:100% 100%;
+color:white;
+}
+#nav{
+height:10%;
+width:100%;
+border:2px;
+margin-top:1%;
+}
+.logo{
+height:100%;
+width:5%;
+border-radius:15px/15px;
+border:2px;
+float:left;
+margin-left:4%;
+}
+.menu{
+height:100%;
+width:70%;
+border:2px;
+float:right;
+}	
+ul{
+	list-style:none;
+	text-align:center;
+}
+li a{
+	text-decoration:none;
+	float:right;
+	padding-right:80px;
+color:white;
+}
+#cont{
+height:89%;
+width:100%;
+border:1px;
+}	
+.c1{
+height:80%;
+width:36%;
+border:1px;
+margin-top:5%;
+margin-left:4%;
+}
+h1{
+	font-size:80px;
+	padding-bottom:10px;
+}
+.btn{
+	border:1px;
+	color:white;
+	background:red;
+	border-radius:15px/15px;
+	height:35px;
+	width:200px;
+}
+#d2{
+height:70%;
+width:100%;
+border:1px;
+text-align:center;
+padding-top:3%;
+line-spacing:10px;
+background-image:url("bg1.jpg");
+color:red;
+}
+.img{
+height:40%;
+width:17%;
+margin-left:12%;
+margin-top:5%;
+border:1px;
+float: left;
+}
+#pic{
+height:75%;
+width:60%;
+border-radius:100%/100%;
+border:1px;
+margin-left:20%;
+}
+#intro{
+height:25%;
+width:100%;
+border:1px;
+}
+h2{
+padding-bottom:5px;
+}
+#d3{
+height:90%;
+width:100%;
+border:1px;
+background:red;
+color:white;
+}
+.bur1{
+height:60%;
+width:25%;
+border-radius:100%/100%;
+border:1px;
+margin-left:20%;
+margin-top:7%;
+float:left;
+}
+.det1{
+height:40%;
+width:30%;
+border:1px;
+float:right;
+margin-top:10%;
+margin-right:15%;
+}
+.btn2{
+	border:1px;
+	color:red;
+	background:white;
+	border-radius:15px/15px;
+	height:35px;
+	width:200px;
+margin-top:5%;
+}
+#d4{
+height:90%;
+width:100%;
+border:1px;
+background-image:url("bg1.jpg");
+color:red;
+}
+
+.bur2{
+height:60%;
+width:25%;
+border-radius:100%/100%;
+border:1px;
+margin-right:20%;
+margin-top:7%;
+float:right;
+}
+.det2{
+height:40%;
+width:30%;
+border:1px;
+float:left;
+margin-top:10%;
+margin-left:15%;
+background:white;
+}
+.btn{
+	border:1px;
+	color:white;
+	background:red;
+	border-radius:15px/15px;
+	height:35px;
+	width:200px;
+margin-top:5%;
+}
+
+#d5{
+height:90%;
+width:100%;
+border:1px;
+text-align:center;
+padding-top:3%;
+line-spacing:10px;
+background:red;
+color:white;
+}
+#stat{
+height:50%;
+width:20%;
+border-radius:100%/100%;
+border:4px solid white;
+margin-left:10%;
+margin-top:5%;
+float:left;
+text-align:center;
+}
+
+
+#d6{
+height:90%;
+width:100%;
+border:1px;
+text-align:center;
+padding-top:3%;
+line-spacing:10px;
+background-image:url("bg1.jpg");
+color:red;
+}
+.pkg{
+height:60%;
+width:19%;
+margin-left:12%;
+margin-top:5%;
+border:1px;
+float:left;
+background:pink;
+}
+.pimg{
+height:30%;
+width:40%;
+margin-left:30%;
+margin-top:5%;
+border:1px;
+}
+h2{
+padding-top:7%;
+}
+#d7{
+height:90%;
+width:100%;
+border:1px;
+text-align:center;
+padding-top:3%;
+line-spacing:10px;
+background-image:url('burbg.jpeg');
+background-size:100% 100%;
+color:white;
+box-shadow: inset 0 0 0 2000px rgba(255, 0, 0, 0.6);
+}
+.p1{
+height:30%;
+width:30%;
+border:1px;
+text-align:center;
+padding-top:3%;
+line-spacing:10px;
+margin-left:35%;
+margin-top:10%;
+}
+
+
+#d8{
+height:80%;
+width:100%;
+border:0.1px solid white;
+background-image:url("bg1.jpg");
+color:red;
+}
+.p2{
+height:35%;
+width:40%;
+border:1px;
+text-align:center;
+line-spacing:10px;
+margin-left:30%;
+margin-top:10%;
+background:white;
+}
+
+
+#d9{
+height:70%;
+width:100%;
+border:2px solid black;
+background:black;
+color:white;
+}
+.footer{
+height:40%;
+width:90%;
+border:1px;
+margin-top:10%;
+margin-left:10%;
+}
+h3{
+padding-bottom:3%;
+}
+.t1{
+height:100%;
+width:60%;
+border:1px;
+float:left;
+}
+.about{
+height:100%;
+width:10%;
+border:1px;
+text-align:left;
+float:left;
+align:center;
+}
+.service{
+height:100%;
+width:10%;
+text-align:left;
+border:1px;
+float:left;
+margin-left:3%;
+}
+.other{
+height:100%;
+width:10%;
+border:1px;
+text-align:left;
+float:left;
+margin-left:3%;
+}
+ol{
+list-style:none;
+padding-left:0px;
+padding-top:3%;
+}
+ol li{
+padding-bottom:8%;
+font-size:15px;
+}
+.t1 ol li{
+margin-left:1%;
+}
+.social{
+border:1px;
+height:40%;
+margin-left:-1%;
+}
